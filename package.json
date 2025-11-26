@@ -1,11 +1,13 @@
 {
-  "name": "cripta-server",
+  "name": "cripta-ecommerce",
   "version": "1.0.0",
+  "description": "Server per cifratura e decifratura",
   "main": "cripta.js",
   "scripts": {
     "start": "node cripta.js"
   },
   "dependencies": {
-    "express": "^4.18.2"
+    "express": "^5.1.0"
   }
 }
+
